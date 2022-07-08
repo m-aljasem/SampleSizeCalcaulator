@@ -1,1 +1,1 @@
-# Sample-Size-Calculator-
+# Sample-Size-Calculator
